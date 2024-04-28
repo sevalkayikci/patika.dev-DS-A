@@ -1,0 +1,27 @@
+Binary Search Tree Aşamaları:
+
+Aşamalar:
+
+1: Kök düğüm: 7
+2: Kökün sağında 8 bulunur.
+3: 8'in solunda 5 bulunur.
+4: 5'in solunda 1 bulunur.
+5: 5'in sağında 6 bulunur.
+6: Kökün solunda 3 bulunur.
+7: 3'ün solunda 2 bulunur.
+8: Kökün sağında 9 bulunur.
+9: 9'un solunda 4 bulunur.
+10: Kökün solunda 0 bulunur.
+
+Tree:
+       7
+      / \
+     5   8
+    / \   \
+   1   6   9
+    \     /
+     3   4
+    /
+   2
+  /
+ 0
